@@ -13,7 +13,7 @@ Feb 2019
 
 ## [About](#about)
 
-[**sdtm-mapper**](https://pypi.org/project/sdtm-mapper/) is a Python package to generate machine readable CDISC SDTM mapping specifications with help from AI. This can be used for following tasks. this is my test project.
+[**sdtm-mapper**](https://pypi.org/project/sdtm-mapper/) is a Python package to generate machine readable CDISC SDTM mapping specifications with help from AI. This can be used for following tasks. This is my test project.
 
 1. Generates an empty specifications for training data from a user provided SAS dataset. This empty specification will contain SAS dataset attributes.  You don't need to use `Proc Contents` in SAS to do this! SAS datasets maybe in your aws s3 bucket or local folder.
 2. Runs models to generate a mapping specifications.
