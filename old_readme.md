@@ -1,7 +1,7 @@
 # SDTMMapper
 
 ## About
-
+This is Obsolete.
 Clinical trial data are captured through many different systems in various ways in various data models by the CRO’s study builders and vendor database programmers. Regardless of the efforts to standardize the CRFs and third-party data, each study has some study specific requirements. Furthermore, the study builders are not so familiar with our standards and we often have to deal with the variabilities in the metadata of the same type of data we collect across many studies. We are also getting in-license products that do not follow our internal data standard model and we often cannot avoid the non-standardized data.
 
 With the effort of standardizing the EDC, we have seen up to 40 % of SDTM programs can be recycled for in-house studies, but to improve our efficiency, we have started exploring alternate approach, which is to utlize Machine Learning in SDTM mapping.
